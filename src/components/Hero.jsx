@@ -16,7 +16,7 @@ const Hero = () => {
       </div>
 
       {/* Content Container */}
-      <div className="relative z-20 px-6 pt-24 pb-20 md:pb-[8%] md:px-12 max-w-7xl mx-auto flex flex-col justify-center text-left w-full h-full">
+      <div className="relative z-20 px-6 pt-24 pb-20 md:pb-[8%] md:px-12 lg:px-24 flex flex-col justify-center text-left w-full h-full">
         <div className="w-full max-w-3xl">
           
           {/* Text Content */}
